@@ -16,7 +16,7 @@ class CList
         
         //typedef struct node* nodePtr;
         
-		nodePtr head;
+	nodePtr head;
         nodePtr curr;
         nodePtr temp;
     
